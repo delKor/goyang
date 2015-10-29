@@ -1,2 +1,0 @@
-# goyang
-hello world!
